@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337419386266",
+    "project_id": "deal-app-c0f78",
+    "storage_bucket": "deal-app-c0f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337419386266:android:1f30711f85a611a3424e23",
+        "android_client_info": {
+          "package_name": "com.example.deal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsgT_JMrVuQ4bfIxOoN1Bkgg3gE6MOSak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
